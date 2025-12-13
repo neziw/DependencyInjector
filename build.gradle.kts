@@ -20,7 +20,7 @@ java {
 }
 
 checkstyle {
-    toolVersion = "12.1.1"
+    toolVersion = "12.3.0"
     maxWarnings = 0
 }
 
